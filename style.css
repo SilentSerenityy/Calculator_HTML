@@ -43,6 +43,7 @@ input:hover {
 input:active {
   top: 4px;
   border: 0 solid #000;
+  
   color: rgb(73, 0, 0);
   background-color: rgb(255, 136, 191);
   border-radius: 4px;
